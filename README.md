@@ -1,4 +1,4 @@
-# 2048
+# 2048-web
 a special version of 2048 for zju_SCDA 
 打开http://www.zjuscda.com/index.php 可以体验
   
