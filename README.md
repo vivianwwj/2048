@@ -5,7 +5,8 @@ a special version of 2048 for zju_SCDA
 服务器用的是阿里的，具体配置流程如下：  
 所需工具  
 xshell、xftp、idea(非必要，notepad)也可  
-文件路径图片: https://uploader.shimo.im/f/touaV9CTHqoyxIns.png  
+文件路径图片:   ![Image text](https://uploader.shimo.im/f/touaV9CTHqoyxIns.png)
+https://uploader.shimo.im/f/touaV9CTHqoyxIns.png  
 相关账号  
 服务器 密码  
 域名：www.zjuscda.com  
